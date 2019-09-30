@@ -1,0 +1,2 @@
+# scholarshipEligibility
+class work
